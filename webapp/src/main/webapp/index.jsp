@@ -2,6 +2,5 @@
 <h2> By Mr.Hari from Saidemy </h2>
 <h2> It's time to start the DevOps Project-2!! Get ready!!!
    
-	Hi all we are going to practice for project2
-
+Pratice data
 
